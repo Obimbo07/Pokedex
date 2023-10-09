@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+      "target": "ES2015",
+      "module": "es2015",
+      "outDir": "public/js",
+      "rootDir": "src",
+      "strict": true,
+      "lib": [
+        "ES2015",
+        "dom"
+      ],
+      "esModuleInterop": true,
+      "forceConsistentCasingInFileNames": true
+  },
+  "include": ["src"]
+}
